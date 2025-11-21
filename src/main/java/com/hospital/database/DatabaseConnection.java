@@ -13,4 +13,4 @@ public class DatabaseConnection {
             throw new RuntimeException("Database connection failed: " + e.getMessage());
         }
     }
-}
+} //comment
